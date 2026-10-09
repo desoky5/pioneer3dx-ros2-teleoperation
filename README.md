@@ -234,3 +234,12 @@ ros2 topic pub -r 10 /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 0.2}}"    # 
 ros2 topic pub -r 5 /ultrasonic_sensors std_msgs/msg/Float32MultiArray \
   "{data: [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0,0.1,0.2,0.3,0.4,0.5,0.6]}"   # fake data for the plot (stop the simulation first)
 ```
+
+## Author
+ 
+**`Omar Desoky`**
+Mechatronics and Robotics Engineering, Egypt-Japan University of Science and Technology (E-JUST)
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-desoky5-181717?logo=github&logoColor=white)](https://github.com/desoky5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omardesoky5-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omardesoky5/)
+[![Email](https://img.shields.io/badge/Email-omardsoky05%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:omardsoky05@gmail.com)
